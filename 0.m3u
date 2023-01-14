@@ -1354,10 +1354,6 @@ http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001023000000052251/m
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000080269/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="衡阳综合" tvg-name="衡阳综合" tvg-logo="https://epg.112114.xyz/logo/衡阳综合.png" group-title="湖南移动",衡阳综合
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000080268/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="浏阳综合" tvg-name="浏阳综合" tvg-logo="https://epg.112114.xyz/logo/浏阳综合.png" group-title="湖南移动",浏阳综合
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000026/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="娄底公共" tvg-name="娄底公共" tvg-logo="https://epg.112114.xyz/logo/娄底公共.png" group-title="湖南移动",娄底公共
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394723/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="娄底教育" tvg-name="娄底教育" tvg-logo="https://epg.112114.xyz/logo/娄底教育.png" group-title="湖南移动",娄底教育
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000394723/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="娄底综合" tvg-name="娄底综合" tvg-logo="https://epg.112114.xyz/logo/娄底综合.png" group-title="湖南移动",娄底综合
@@ -1368,8 +1364,6 @@ http://[2409:8087:5011:1020::15]/180000001002/00000001000000000035000000442109/m
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000071/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="湘潭综合" tvg-name="湘潭综合" tvg-logo="https://epg.112114.xyz/logo/湘潭综合.png" group-title="湖南移动",湘潭综合
 http://[2409:8087:5011:1020::1a]/180000001002/00000001000000000008000000047451/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="湘西综合" tvg-name="湘西综合" tvg-logo="https://epg.112114.xyz/logo/湘西综合.png" group-title="湖南移动",湘西综合
-http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000016000000007222/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="益阳公共" tvg-name="益阳公共" tvg-logo="https://epg.112114.xyz/logo/益阳公共.png" group-title="湖南移动",益阳公共
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001024000000187766/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="益阳综合" tvg-name="益阳综合" tvg-logo="https://epg.112114.xyz/logo/益阳综合.png" group-title="湖南移动",益阳综合
