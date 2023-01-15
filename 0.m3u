@@ -1334,10 +1334,6 @@ http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000039/m
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196971/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="浏阳" tvg-name="浏阳" tvg-logo="https://epg.112114.xyz/logo/浏阳.png" group-title="湖南移动",浏阳
 http://[2409:8087:5011:1020::1d]/180000001001/00000001000000001001000000000026/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="湖南移动",新闻综合
-http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001001000000000069/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="湖南移动",新闻综合
-http://[2409:8087:5011:1020::2a]/180000001001/00000001000000001001000000000070/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="长沙女性" tvg-name="长沙女性" tvg-logo="https://epg.112114.xyz/logo/长沙女性.png" group-title="湖南移动",长沙女性
 http://[2409:8087:5011:1020::1c]/180000001001/00000001000000001001000000000029/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="长沙新闻" tvg-name="长沙新闻" tvg-logo="https://epg.112114.xyz/logo/长沙新闻.png" group-title="湖南移动",长沙新闻
